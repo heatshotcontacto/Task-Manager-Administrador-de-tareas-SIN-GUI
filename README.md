@@ -24,9 +24,6 @@ El programa permite:
 ---
 
 # Estructura del proyecto
-
-# Estructura del proyecto
-
 ```bash
 TASK MABAGER/
 │
