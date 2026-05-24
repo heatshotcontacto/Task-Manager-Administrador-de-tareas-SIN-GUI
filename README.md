@@ -26,7 +26,7 @@ El programa permite:
 # Estructura del proyecto
 
 ```bash
-TASK MABAGER/
+TASK MANAGER/
 │
 ├── data/
 │   └── tasks.json
@@ -37,7 +37,7 @@ TASK MABAGER/
 ├── tasks.py
 └── utils.py
 ```
-````md
+
 ---
 
 # Explicación de archivos
@@ -103,7 +103,7 @@ Permite mantener la información guardada incluso después de cerrar el programa
 
 ```bash
 git clone https://github.com/heatshotcontacto/Task-Manager-Administrador-de-tareas-SIN-GUI.git
-````
+```
 
 ## 2. Entrar a la carpeta del proyecto
 
@@ -133,14 +133,11 @@ python main.py
 
 # Características
 
-* ✅ Validación de entradas
-* ✅ Persistencia de datos con JSON
-* ✅ Estructura modular
-* ✅ Manejo de errores
-* ✅ Menú interactivo
-* ✅ Guardado automático de tareas
+- ✅ Validación de entradas
+- ✅ Persistencia de datos con JSON
+- ✅ Estructura modular
+- ✅ Manejo de errores
+- ✅ Menú interactivo
+- ✅ Guardado automático de tareas
 
 ---
-
-```
-```
