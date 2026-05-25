@@ -141,3 +141,8 @@ python main.py
 - ✅ Guardado automático de tareas
 
 ---
+# No tomar en cuenta (Logica principal)
+```text 
+ejemplo.py
+```
+
